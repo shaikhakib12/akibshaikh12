@@ -16,7 +16,7 @@ I am a passionate  B.Tech Computer Science and Engineering (CSE)  student at  JI
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shekh Akib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=akibshaikh12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shekh Akib&icon=0&color=0)](https://visitcount.itsvg.in)
