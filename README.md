@@ -19,6 +19,6 @@ I am a passionate  B.Tech Computer Science and Engineering (CSE)  student at  JI
 ![](https://github-contributor-stats.vercel.app/api?username=akibshaikh12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shekh Akib&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=akibshaikh12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
